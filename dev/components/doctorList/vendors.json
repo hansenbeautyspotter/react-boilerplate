@@ -1,0 +1,1181 @@
+{
+	"_id" : ObjectId("57559c9234690bed298b4594"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Loogeplatz 22",
+		"city" : "Hamburg",
+		"zipCode" : "20249"
+	},
+	"availabilityRating" : {
+		"detail" : "unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.991,
+		"y" : 53.589
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med Karl Dansard",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4583"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Wangenheimstraße 32",
+		"city" : "Berlin",
+		"zipCode" : "14193"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 13.289,
+		"y" : 52.49
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Bernd-Ulrich Meyburg",
+	"title" : "Facharzt für Chirurgie | Facharzt für Gynäkologie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4585"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Ringstrasse 74",
+		"city" : "Berlin",
+		"zipCode" : "12205"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 13.298,
+		"y" : 52.439
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "PD Dr. med. Jürgen Hussmann",
+	"title" : "Facharzt für Plastische (und Ästhetische) Chirurgie / Handchirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4590"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Colonnaden 9",
+		"city" : "Hamburg",
+		"zipCode" : "20354"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.99,
+		"y" : 53.555
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. Pasel & Dr. Krüss",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4591"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Falkenried 88",
+		"city" : "Hamburg",
+		"zipCode" : "20251"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.97153,
+		"y" : 53.58597
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Armin Rau ",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4592"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Hallerstr. 71",
+		"city" : "Hamburg",
+		"zipCode" : "20146"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.987,
+		"y" : 53.573
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Stefan Klinzing",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4593"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Harburger Ring 8 – 10",
+		"city" : "Hamburg",
+		"zipCode" : "21073"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.985,
+		"y" : 53.459
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerFemale.jpg"
+	},
+	"name" : "Dr. med. Hülsbergen-Krüger",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4595"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Jürgensallee 46-48",
+		"city" : "Hamburg",
+		"zipCode" : "22609"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.853,
+		"y" : 53.555
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. Alexander Handschin – Klinik Dr. Guth",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4596"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Sülldorfer Kirchenweg 1a",
+		"city" : "Hamburg",
+		"zipCode" : "22587"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberInt("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.812,
+		"y" : 53.564
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Michael Schikorski",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b4599"),
+	"about" : "Dr. Dr. Bernd Klesper ist Facharzt für Mund- Kiefer- und Gesichtschirurgie mit der Zusatzbezeichnung plastische Operationen. Dr. Dr. Klesper hat sich auf ästhetische Operationen an der Brust, im Intimbereich und im Gesicht spezialisiert. Er praktiziert nach neusten wissenschaftlichen Verfahren in der Beauty Klinik an der Alster in Hamburg. Er ist in den Techniken der Brustvergrößerung durch seine langjährigen Erfahrungen vertraut. \r\nDr. Dr. Klesper hat sein Medizinstudium an der Universität zu Köln abgeschlossen und währenddessen in Sao Paulo sowie Zürich Hospitiert. Er ist seit 1978 Arzt und lies sich bis 1994 zum plastischen Gesichtschirurgen ausbilden. 1995 praktizierte Herr Priv. Doz. Klesper als leitender Oberarzt für Mund-, Kiefer- und Plastische Gesichtschirurgie in der Uniklinik zu Köln. Heute ist er in der Beauty Klinik an der Alster tätig und leitet die Abteilung für plastische Chirurgie.",
+	"address" : {
+		"street" : "Mittelweg 18",
+		"city" : "Hamburg",
+		"zipCode" : "20148"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 9.995,
+		"y" : 53.567
+	},
+	"image" : {
+		"label" : "Dr. Dr. med. Bernd Klesper",
+		"path" : "/vendor/57559c9234690bed298b4599/2017-04-13_170312_58ef9330e1ec3.jpg"
+	},
+	"name" : "Priv.-Doz. Dr. Dr. med. Bernd Klesper",
+	"title" : "Facharzt für Mund-, Kiefer- und Gesichtschrirugie und plastische Operationen (Zusatzbezeichnung)"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b459c"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Mittelweg 18",
+		"city" : "Hamburg",
+		"zipCode" : "20148"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 9.995,
+		"y" : 53.567
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Pullmann Unternehmen Schönheit - Hamburg",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b459f"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Fritz-Seger-Straße. 21",
+		"city" : "Leipzig",
+		"zipCode" : "4155"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 12.37187,
+		"y" : 51.35923
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Wachsmuth & Dr. med. Völpel",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45a5"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Schletterstraße 10",
+		"city" : "Leipzig",
+		"zipCode" : "4107"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 12.375923,
+		"y" : 51.330282
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerFemale.jpg"
+	},
+	"name" : "Dr. Katja Hohmann-Bauch",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45a8"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Postplatz 6",
+		"city" : "Dresden",
+		"zipCode" : "1067"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 13.731108,
+		"y" : 51.051309
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Holger M. Pult",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45ab"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Im Zollhafen 18",
+		"city" : "Köln",
+		"zipCode" : "50678"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 6.966,
+		"y" : 50.927
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Claudius Kässmann",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45ae"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Turiner Str. 2",
+		"city" : "Köln",
+		"zipCode" : "50668"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 6.958,
+		"y" : 50.947
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Taufig",
+	"title" : "Facharzt für Chirurgie und Facharzt für Plastische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45b1"),
+	"about" : "Prof. asoc. Dr. med. Thomas J. Galla interessierte sich schon früh für die Medizin und die Kunst. Mit 20 Jahren reiste er nach Rio de Janeiro, um sich von dem \"Michelangelo des Skalpells\" Prof. Dr. Ivo Pitanguy inspierieren und bestärken zu lassen, die Laufbahn des plastisch-ästhetischen Chirurgen, einzuschlagen. \r\nBereits mit 25 Jahren schloss Prof. asoc. Dr. med. Thomas J. Galla sein Medizinstudium mit Prädikat ab. 1987 promovierte er und wurde der jüngste Leiter der Experimentell-Plastischen Chirurgie (Sonderforschungsbereich für Mikrozirkulation) in Heidelberg. Er war in Aachen, Friedrichshafen, Chiemsee und weiteren Kliniken tätig und verfügt über einen großen Erfahrungsschatz. Außerdem kann sich Prof. asoc. Dr. med. Galla als Vorstandsmitglied der internationalen Gesellschaft für Lipolysetherapie (ISL) neben weiteren Mitgliedschaften in Fachverbänden, bezeichnen.",
+	"address" : {
+		"street" : "Schönhauser Str. 3",
+		"city" : "Köln",
+		"zipCode" : "50968"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 6.969,
+		"y" : 50.913
+	},
+	"image" : {
+		"path" : "/vendor/57559c9234690bed298b45b1/image.jpg",
+		"label" : "Prof. asoc. Dr. med. Thomas Galla"
+	},
+	"name" : "Prof. asoc. Dr. med. Thomas J. Galla",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45b4"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Beethovenstrasse 5-13",
+		"city" : "Köln",
+		"zipCode" : "50674"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 6.939,
+		"y" : 50.933
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Georgios Hristopoulos Pantheon Aesthetic",
+	"title" : "FA UNDEF"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45b8"),
+	"address" : {
+		"street" : "Londynska 160/39",
+		"city" : "Prag2",
+		"zipCode" : "12000"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 14.434,
+		"y" : 50.073
+	},
+	"image" : {
+		"label" : "Asklepion Clinc Prag",
+		"path" : "/vendor/57559c9234690bed298b45b8/image.jpg"
+	},
+	"name" : "Asklepion Klinik in Prag",
+	"title" : "Fachärzte für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45b9"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Hundekehlestraße 31",
+		"city" : "Berlin",
+		"zipCode" : "14199"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 13.28638,
+		"y" : 52.475866
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Wolfgang J. Kümpel",
+	"title" : "keine Information zum Facharzttitel"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45bc"),
+	"about" : "Dr. med. Farsad ist seit 25 Jahren Doktorin der Humanmedizin. Frau Dr. Farsad hat 10 Jahre später zusätzlich ihre Promotion zur Kieferchirurgin erfolgreich absolviert und sich zuerst auf die plastische und ästhetische Chirurgie im Mund- und Kiefer- sowie Gesichtsraum spezialisiert bis sie dort ihre ärztliche Zusatzbezeichnung erlangte. Vor 9 Jahren hat Frau Dr. Farsad die Facharztprüfung für Plastische und Ästhetische Chirurgie abgelegt. Seit fast 8 Jahren hat sie ihre eigene Praxis in Tübingen. Frau Farsad operiert jedoch ebenfalls in Stuttgart und an der Deutsch-Schweizerischen-Grenze. Ihr Lebenslauf ist gekennzeichnet durch umfassende Praxistätigkeiten. Frau Dr. Farsad war unter anderem 4 Jahre in der Klinik für Plastische, Rekonstruktive und Handchirurgie des Replantationszentrums in Magdeburg, dem Brustzentrum in Görlitz und als Oberärztin im Schwerverbrannten-Zentrum in Offenbach tätig.",
+	"address" : {
+		"street" : "Hechingerstr. 67",
+		"city" : "Tübingen",
+		"zipCode" : "72072"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"cityLabel" : "Tübingen/Stuttgart",
+	"coordinates" : {
+		"x" : 9.06,
+		"y" : 48.509
+	},
+	"image" : {
+		"label" : "Dr. med. Dr. med. dent. Farsad",
+		"path" : "/vendor/57559c9234690bed298b45bc/2017-03-17_104359_58cbafdfe5314.jpg"
+	},
+	"name" : "Dr. med. Dr. med. dent. Hengameh Farsad",
+	"title" : "Facharzt für Plastische- und Ästhetische Chirugie Fachärztin für Mund-, Kiefer- und Gesichtschirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45c2"),
+	"about" : "Dr. med. Berstein ist seit über 20 Jahren Chirurg. Er behandelt Schwerpunktmäßig in örtlicher Betäubung und führt minimal-invasive Eingriffe durch.\r\n\r\nDr. Berstein promovierte in Sankt Petersburg und war 10 Jahre im Vivantes Klinikum am Urban in Berlin tätig. Seine Praxis hat er seit 2003 am Ku`damm und ist seit 6 Jahren internationaler Coach für Fadenlifting. \r\nTermine für eine Beratung bei Dr. Berstein erhalten Sie unter:\r\n030 610 818 286",
+	"address" : {
+		"street" : "Rankestraße 2",
+		"city" : "Berlin",
+		"zipCode" : "10789"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 13.334,
+		"y" : 52.504
+	},
+	"image" : {
+		"label" : "Dr. med. Berstein",
+		"path" : "/vendor/57559c9234690bed298b45c2/image.jpg"
+	},
+	"name" : "Dr. med. Emmanuil Berstein",
+	"title" : "Facharzt für Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45c5"),
+	"about" : "Dr. med. Hambarchian hat viel Erfahrung im Bereich der Plastischen und Ästhetischen Chirurgie. Er ist spezialsisiert auf Plastische-, Rekonstruktive-, Brust- und Handchirurgie mit Schwerpunkt in der ästhetischen Chirurgie. \r\n\r\nDr. med. Hambarchian hat in vielen Kliniken im In- und Ausland Erfahrungen gesammelt. Neben Stationen in Hamburg, Köln, Bonn, Gütersloh und Lippstadt hat Dr. Hambarchian bei renormierten Ärzten im Ausland prakiziert (USA, Kanada, Spanien).",
+	"address" : {
+		"street" : "Kurze Mühren 1",
+		"city" : "Hamburg",
+		"zipCode" : "20095"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 10.003,
+		"y" : 53.553
+	},
+	"image" : {
+		"label" : "Dr. med. Hambarchian",
+		"path" : "/vendor/57559c9234690bed298b45c5/image.jpg"
+	},
+	"name" : "Dr. med. Njde Hambarchian",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45c8"),
+	"about" : "Dr. med. Kerpen ist als plastischer und ästhetischer Chirurg auf die Brust- und Handchirurgie spezialisiert. Er studierte in München, Spanien und Österreich. Seinen Abschluss machte er in Heidelberg mit Bestnote. \r\n\r\nDr. med. Kerpen hat in vielen Kliniken im In- und Ausland Erfahrungen gesammelt und berät und operiert in der Alster Klinik Hamburg in den Bereichen der Brust- und Handchirurgie.",
+	"address" : {
+		"street" : "Rothenbaumchaussee 7",
+		"city" : "Hamburg",
+		"zipCode" : "20148"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 9.989,
+		"y" : 53.565
+	},
+	"image" : {
+		"label" : "Dr. med. Kerpen",
+		"path" : "/vendor/57559c9234690bed298b45c8/image.jpg"
+	},
+	"name" : "Dr. med. Christian Kerpen",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b4567"),
+	"about" : "Dr. med. Mark A. Wolter arbeitete und promovierte während seiner Ausbildung in Berlin und Zürich. 1996 absolvierte er seine chirurgische Facharztausbildung in Dinkelsbühl mit dem Schwerpunkt der Allgemein- und Handchirurgie sowie ästhetische Operationen im Bereich der Brustoperationen, Lidstraffungen, Bauchdeckenplastik und Fettabsaugungen. Nach seiner Ausbildung war er in verschiedenen Kliniken tätig, unteranderem in der Bodenseeklinik von Prof. Mang. \r\nSeit 2001 führt Dr. med. Mark Wolter seine Privatpraxis in Berlin am Kurfürstendamm. Er hat sich durch langjährige Erfahrung und Medienauftritten einen Name in Berlin gemacht. Er hat ebenfalls an der Entwicklung eines Zertifikat der DEKRA für ästhetische Operationen mitgearbeitet und ist Vizepräsident der Internationalen Gesellschaft für ästhetische Medizin (IGÄM).\r\n<br>\r\n<br>\r\n**Bekannt aus den Medien:**\r\n\r\n[grid:row]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/das-erste-2015.jpg\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/n24.png\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/rtl.png\" width=\"75\">\r\n[grid:end]\r\n[grid:end]\r\n\r\n[grid:row]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/bild_online.png\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/bild.png\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/bz.png\" width=\"75\">\r\n[grid:end]\r\n[grid:end]\r\n\r\n[grid:row]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/jamfm.png\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/faz.png\" width=\"90\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/promiflash.png\" width=\"75\">\r\n[grid:end]\r\n[grid:end]",
+	"address" : {
+		"street" : "Damaschkestraße 4",
+		"city" : "Berlin",
+		"zipCode" : "10711"
+	},
+	"availabilityRating" : {
+		"detail" : "kurzfristig",
+		"value" : NumberInt("1"),
+		"range" : NumberInt("2")
+	},
+	"coordinates" : {
+		"x" : 13.303,
+		"y" : 52.5
+	},
+	"image" : {
+		"label" : "Dr. med. Mark Wolter",
+		"path" : "/vendor/57559c9134690bed298b4567/2017-02-27_234838_58b4acc6148ad.jpg"
+	},
+	"name" : "Dr. med. Mark Wolter",
+	"title" : "Facharzt für Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45cb"),
+	"about" : "Dr. med. Marcus Fritzsch ist Facharzt für Plastische-, Ästhetische- und Rekonstruktive Chirurgie und hat sich auf das Thema Brustoperation spezialisiert. Er hat in einer der größten deutschen Privatkliniken viele Erfahrungen sammeln können und sich auf Brustvergrößerungen spezialisiert. \r\nDr. Fritzsch hat viele Stationen in seiner Ausbildung durchlaufen. Er hat als leitender Oberarzt in der Klinik für Plastische, Brust- und Ästhetische Chirurgie Dresden Neustadt fungiert. Seit Anfang 2016 praktiziert er im AesthetiCum in Berlin. \r\n\r\nTermine für eine Beratung bei Dr. Fritzsch erhalten Sie online über den Terminkalender oder unter: 030 610 818 286",
+	"address" : {
+		"street" : "Tauentzienstraße 5",
+		"city" : "Berlin",
+		"zipCode" : "10789"
+	},
+	"availabilityRating" : {
+		"detail" : "kurzfristig",
+		"value" : NumberInt("1"),
+		"range" : NumberInt("2")
+	},
+	"coordinates" : {
+		"x" : 13.341,
+		"y" : 52.503
+	},
+	"image" : {
+		"label" : "Dr. med. Fritzsch",
+		"path" : "/vendor/57559c9234690bed298b45cb/image.jpg"
+	},
+	"name" : "Dr. med Marcus Fritzsch",
+	"title" : "Facharzt für Plastische-, Ästhetische- und Rekonstruktive Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45ce"),
+	"about" : "Dr. Claudius Ulmann hat in Freiburg und München Medizin studiert und anschließend seine Weiterbildung zum Facharzt in Breisach a. Rh., Baden-Baden und Göppingen absolviert. Mit dem Bereich der Plastischen Chirurgie setzte er sich in Stuttgart, Düsseldorf, den USA, Frankreich und England auseinander und erlangte 1982 den Fachtitel „Facharzt für Plastische Chirurgie“. \r\n\r\n1984 übernahm Dr. Ulmann die Leitung der KOSMAS-Klinik in Bad Neuenahr und ist dort außerdem als führender Chirurg tätig. In Bonn leitet er die Abteilung der Plastischen und Ästhetischen Chirurgie der Jungbrunnen Klinik seit 2009. \r\n\r\nTermine für eine Beratung bei Dr. med. Claudius Ulmann erhalten Sie online über den Terminkalender oder unter: 071 14 005 0160\r\n<br>\r\n<br>\r\n<br>\r\n**Bekannt aus den Medien:**\r\n[grid:row]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/focus_topmediziner.230x230.jpg\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/vox.jpg\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/bunte.jpg\" width=\"75\">\r\n[grid:end]\r\n[grid:end]",
+	"address" : {
+		"street" : "Felix-Rütten-Straße 11",
+		"city" : "Bad Neuenahr-Ahrweiler",
+		"zipCode" : "53474"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 7.141,
+		"y" : 50.542
+	},
+	"image" : {
+		"label" : "Dr. med. Ulmann",
+		"path" : "/vendor/57559c9234690bed298b45ce/image.jpg"
+	},
+	"name" : "Dr. med. Claudius Ulmann",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45d1"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Moerser Str. 100",
+		"city" : "Meerbusch-Büderich",
+		"zipCode" : "40667"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : NumberLong("0"),
+		"range" : NumberInt("0")
+	},
+	"coordinates" : {
+		"x" : 6.680278,
+		"y" : 51.258786
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Hans Greuel",
+	"title" : "Facharzt für Psychotherapie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b4569"),
+	"about" : "Dr. Rainer John ist Facharzt für Chirurgie und hat sich auf ästhetische Operationen spezialisiert. Er führt seit über 10 Jahren seine eigene Praxis. 2015 ist er in neue Räumlichkeiten gezogen und führt hier seine kunstvoll und elegant eingerichtete Praxis. \r\n\r\nDr. John hat sein Medizinstudium in Heidelberg abgeschlossen und anschließend 6-jährige Ausbildung zum Facharzt für Chirurgie gemacht. 2004 gründete er seine eigene Praxis mit dem Focus auf ästhetische Operationen.",
+	"address" : {
+		"street" : "Dorotheenstr. 83",
+		"city" : "Berlin",
+		"zipCode" : "10117"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 13.387,
+		"y" : 52.519
+	},
+	"image" : {
+		"label" : "Dr. med. John",
+		"path" : "/vendor/57559c9134690bed298b4569/image.jpeg"
+	},
+	"name" : "Dr. med. Rainer John",
+	"title" : "Facharzt für Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45d4"),
+	"about" : "<h3>Information zu Dr. Dr. med. Bert Grundmann</h3>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:150px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v3/108/resultimage.jpg\">\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n[icon:green_checkmark](Facharzt für Chirurgie (Zusatzbezeichnung  Plastische und Ästhetische Operation)\r\n[icon:green_checkmark](Spezialist für Brustoperationen)\r\n[icon:green_checkmark](Über 25 Jahre Erfahrung in der Plastischen Chirurgie)\r\n</div>\r\n</div>\r\n<br>\r\n<h4>Dr. Dr. med. Bert Grundmann ist Mitglied in folgenden Fachverbänden</h4>\r\n<div class=\"row\">\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v3/999/Internationale_Gesellschaft_fuer_aesthetische_Medizin.230x230.jpg\" \r\ntitle=\"Internationale Gesellschaft für ästhetische Medezin e.V.\">\r\n</div>\r\n</div>\r\n</div>\r\n<br> \r\n<h4>Herr Dr. Dr. med. Grundmann kann Sie in folgenden Sprachen beraten:</h4>\r\n<br/><br/>\r\n<div class=\"row\">\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/deutsch.jpg\" />\r\n            <font size=1>Deutsch</font>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/englisch.jpg\" />\r\n            <font size=1>Englisch</font>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class=\"row\"> \r\n    <div class=\"col-md-12\">\r\nDr. Dr. med. Grundmann ist seit 1996 als ästhetischer Chirurg tätig. Er in seiner Ausbildung mehrer Stationen im Ausland durchlaufen und war in verschiedenen Kliniken als leitender Arzt und Oberarzt tätig. Seit 2007 ist der an den vier Standorten (Hamburg, Kiel, Bad Zwischenahn, Palma) des Clinic-Office - Privatkliniken für Plastische und Ästhetische Chirurgie als ärztlicher Leiter tätig. </br></br> \r\nDr. Dr. med. Grundmann steht für eine umfangreiche und ehrliche Beratung in der die medizinischen Möglichkeiten besprochen werden. Dabei steht die Sicherheit der Patienten immer im Fokus.\r\n    </div>\r\n</div>\r\n</span>",
+	"address" : {
+		"street" : "Alter Markt 1-2",
+		"city" : "Kiel",
+		"zipCode" : "24103"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 10.139,
+		"y" : 54.323
+	},
+	"image" : {
+		"label" : "Dr. Dr. med. Bert Grundmann",
+		"path" : "/vendor/57559c9234690bed298b45d4/image.jpg"
+	},
+	"name" : "Dr. Dr. med. Bert Grundmann",
+	"title" : "Facharzt für Chirurgie (Zusatzausbildung Plastische und Ästhetische Operation)"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45d7"),
+	"about" : "Dr. med. Murat Dağdelen ist Gründer und Ärztlicher Direktor der Praxis DiaMonD Aesthetics, der Fachpraxis für Plastische und Ästhetische Chirugie. Er absolvierte sein Studium an der Universität Ulm und beendete es an der Eberhard-Karls-Universität Tübingen. Bereits früh hegte er großes Interesse an der Plastischen Chirurgie. Im Alter von 26 Jahren promovierte er mit der Note \"magna cum laude\". Dr. med. Murat Dağdelen zählt zu den Experten der ästhetischen und funktionellen Nasenchirurgie, der Verjüngungschirurgie des Gesichtes, des Körpers und der Brustchirurgie. Er ist Gründungsmitglied sowie Vizepräsident der German-Turkish Plastic Surgery Association. \r\nDie Brustchirurgie zählt zu Dr. med. Murat Dağdelens Spezialgebieten. Er kann schmerzarme Brustvergrößerungen in subfaszialer Schicht ohne Verletzung des Brustmuskels durchführen und verfügt über die Fähigkeit bei der Bruststraffung ein Bio-Implantat aus Eigengewebe nach brasilianischer Art zu formen.",
+	"address" : {
+		"city" : "Düsseldorf",
+		"zipCode" : "40213",
+		"street" : "Heinrich-Heine-Allee 38"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberInt("2"),
+		"range" : NumberInt("3")
+	},
+	"coordinates" : {
+		"x" : 6.778,
+		"y" : 51.225
+	},
+	"image" : {
+		"label" : "Dr. med. Murat Dağdelen",
+		"path" : "/vendor/57559c9234690bed298b45d7/image.jpg"
+	},
+	"name" : "Dr. med. Murat Dağdelen",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b4568"),
+	"about" : "Dr. med. Juliane Bodo ist seit 2004 Fachärztin für Plastische und Ästhetische Chirurgie. Vorher studierte Sie Humanmedizin in Köln und absolvierte verschieden Praktika in Deutschland und den USA. Hier spezialisierte Sie sich auf plastische und ästhetische Eingriffe. \r\nIhre Praxis führt Frau Dr. med. Juliane Bodo seit 2005 im Herzen von Berlin. Sie bildet sich regelmäßig weiter und zeichnet sich durch die anerkannten Auszeichnungen von \"Premiumkliniken\" und \"Acredis\" aus.\r\n\r\nFrau Dr. med. Juliane Bodo und ihr Praxis Team legen viel Wert darauf, dass sich die Patienten und Patientinnen in der Praxis und in der Klinik wohlfühlen. Die Chirurgin hat eine Philosophie für sich verinnerlicht, die sie bei jeder Beratung ihrer Patienten vorbringt. Dazu gehört dass sie besonderen Wert auf die äußere Erscheinung und dem inneren Befinden ihrer Patienten legt. \r\n\r\nFrau Dr. med. Juliane Bodo beachtet dabei die Wünsche und Vorstellungen ihres Gegenübers genauso wie die umfangreiche Aufklärung über Möglichkeiten und Machbares in diesem Zusammenhang.Erfahrung und Wissen um die Wichtigkeit der Umsetzung von Patienten- und Patientinnen-Wünsche sowie die Behebung von Problemen stehen im Fokus von Frau Dr. med. Juliane Bodos ärztlicher Dienstleistung.\r\n<br>\r\n<br>\r\n**Acredis Auszeichnung, Auszeichnung von Fokus für Premium Kliniken und Praxen:**\r\n[grid:row]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v2/999/Acredis_Seal_Hoch.jpg\" width=\"75\">\r\n[grid:end]\r\n[grid:end]",
+	"address" : {
+		"street" : "Schlüterstraße 40",
+		"city" : "Berlin",
+		"zipCode" : "10707"
+	},
+	"availabilityRating" : {
+		"detail" : "kurzfristig",
+		"value" : NumberInt("1"),
+		"range" : NumberInt("2")
+	},
+	"coordinates" : {
+		"x" : 13.309,
+		"y" : 52.503
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerFemale.jpg"
+	},
+	"name" : "Dr. med. Juliane Bodo",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b456b"),
+	"about" : "Dr. med. Frank Labschies ist Facharzt für Plastische und Ästhetische Chirurgie. Er hat sich auf das Thema Brustoperation mit Eigenfett spezialisiert. Nach seiner Ausbildung zum Krankenpfleger in Berlin und Sevilla (Spanien) studierte er Medizin in Leipzig und New York (USA). Seinen Doktortitel erlangte er an der Charité Berlin. Dr. med. Frank Labschies ist Stationen im Bereich der Plastischen und Ästhetischen Chirurgie in Guayaquil (Ecuador), im Bundeswehrkrankenhaus Berlin und der Park-Klinik Birkenwerder durchlaufen. \r\nSeine Patientinnen werden mittwochs persönlich in seiner Praxis am Kurfürstendamm beraten und können dort ambulant operiert werden. Stationäre Eingriffe finden in der Clinica Vita statt. Patientinnen profitieren bei Herrn Dr. Labschies von seinem hohen Erfahrungsschatz, den er in seiner täglichen Arbeit jederzeit einfließen lässt. \r\nTermine für eine Beratung bei Dr. Labschies erhalten Sie online über den Terminkalender oder unter:\r\n030 610 818 297",
+	"address" : {
+		"street" : "Meinekestraße 6",
+		"city" : "Berlin",
+		"zipCode" : "10719"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.328,
+		"y" : 52.502
+	},
+	"image" : {
+		"label" : "Dr. med. Labschies",
+		"path" : "/vendor/57559c9134690bed298b456b/image.jpg"
+	},
+	"name" : "Dr. med. Frank Labschies",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45dd"),
+	"about" : "Herr Dr. med. Stephan Grzybowski ist Facharzt für Plastische und Ästhetische Chirurgie bei der Medical One Klinik Hamburg sowie der Beratungszentren Hamburg City und Bremen. Er durchlief sein Medizinstudium in Hamburg und absolvierte anschließend seine Facharztausbildung der Plastischen und Ästhetischen Chirurgie. Bei mehreren Aufenthalte in Europa und den USA bildete er sich weiter und kann sich mittlerweile als anerkannter Experte für Brustvergrößerungen, Brustverkleinerungen und Bruststraffungen bezeichnen. Er war 6 Jahre Oberarzt in der Klinik für Plastische Chirurgie des Agaplesion Diakonie Klinikums Hamburg. Seit 2014 ist Teil des Medical One Teams. \r\nDie Brustchirurgie zählt zu den Behandlungsschwerpunkten von Herrn Dr. med. Stephan Grzybowski.",
+	"address" : {
+		"street" : "Schwachhauser Heerstraße 92",
+		"city" : "Bremen",
+		"zipCode" : "28209"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 8.845,
+		"y" : 53.084
+	},
+	"image" : {
+		"label" : "Dr. med. Stephan Grzybowski",
+		"path" : "/vendor/57559c9234690bed298b45dd/image.jpg"
+	},
+	"name" : "Dr. med. Stephan Grzybowski",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b456d"),
+	"about" : "Prof. Dr. med. Sinis hat nach seinem regulären Medizinstudium seine Ausbildung zum Facharzt für Plastische und Ästhetische Chirurgie an der Universität Tübingen gemacht. Anschließend war er als Ober- und Chefarzt in verschiedenen öffentlichen Krankenhäusern tätig. Derzeit ist er zusätzlich Konsiliarius an der Charité Berlin. Früh hat Prof. Sinis sich auf mikrochirurgische Methoden spezialisiert und durch über 50 veröffentlichte wissenschaftliche Artikel und mehr als 100 Vorträgen auf Fachkongressen einen Betrag zur Entwicklung in der Chirurgie geleistet. Seit 2015 konzentiert er sich voll auf die ästhetische Chirurgie als ärztlicher Direktor in der Clinic Dahlem. \r\n<br>\r\n<br>\r\n**Acredis Auszeichnung, Charité-Arzt und TOP Chirurg für Brustvergrößerung, Brustverkleinerung und Bruststraffung von Estheticon:**\r\n[grid:row]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v2/999/Acredis_Seal_Hoch.jpg\" width=\"75\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/charite.png\" width=\"80\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/topchirurg_estheticon_brustvergroesserung.jpg\" width=\"80\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/topchirurg_estheticon_bruststraffung.jpg\" width=\"80\">\r\n[grid:end]\r\n[grid:col4]\r\n<img alt=\"Bild\" src=\"https://cubereactor-static.s3.amazonaws.com/apps/bop/content/v3/999/topchirirug_estheticon_brustverkleinerung.jpg\" width=\"80\">\r\n[grid:end]\r\n[grid:end]",
+	"address" : {
+		"street" : "Rheinbabenallee 18",
+		"city" : "Berlin",
+		"zipCode" : "14199"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.284,
+		"y" : 52.475
+	},
+	"image" : {
+		"label" : "Prof. Dr. Sinis",
+		"path" : "/vendor/57559c9134690bed298b456d/image.jpg"
+	},
+	"name" : "Prof. Dr. med. Nektarios Sinis",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9234690bed298b45e2"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Hildesheimerstr. 34-40",
+		"city" : "Hannover",
+		"zipCode" : "30169"
+	},
+	"availabilityRating" : {
+		"detail" : "Unbekannt",
+		"value" : 0,
+		"range" : 0
+	},
+	"coordinates" : {
+		"x" : 9.747,
+		"y" : 52.364
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr.med.Hans-Detlef Axmann",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("5762c7f534690bf8099db8ad"),
+	"about" : "Dr. med. Sylvia Angerer hat an der Universität Würzburg Medizin studiert. Schon während ihrer Ausbildung an der BG Unfallklinik Murnau, dem Caritas Krankenhaus Regensburg und der Praxis Dr. Witzel in Berlin lag ihr persönlicher Schwerpunkt in der Ästhetik. Durch mehrmonatige Aufenthalte in hoch angesehenen Abteilungen, bspw. in Brasilien bei Prof. Ivo Pitanguy, den USA und in Südafrika sammelte sie internationale Erfahrungen im Bereich der Plastisch-Ästhetischen Chirurgie. Im Jahr 2009 leitete Frau Dr. med. Sylvia Angerer die größte Abteilung für Plastische Chirurgie in Abu Dhabi.",
+	"address" : {
+		"street" : "Gabriel-von-Seidl-Straße 77",
+		"city" : "Grünwald (bei München)",
+		"zipCode" : "82031"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 11.541,
+		"y" : 48.048
+	},
+	"image" : {
+		"label" : "Dr. med. Sylvia Angerer",
+		"path" : "/vendor/5762c7f534690bf8099db8ad/image.jpg"
+	},
+	"name" : "Dr. med. Sylvia Angerer",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b456a"),
+	"about" : "<h3>Information zu Dr. med. Olaf Kauder</h3>\r\n<div class=\"row\">\r\n <div class=\"col-md-2\">\r\n<div style=\"max-width:150px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v3/4/resultimage_kauder.jpg\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-6\">\r\n[icon:green_checkmark](Facharzt für Plastische und Ästhetische Chirurgie)\r\n[icon:green_checkmark](Spezialist für Brustoperationen)\r\n[icon:green_checkmark](über 150 Brustoperationen pro Jahr, davon ca 100 Brustvergrößerungen mit Implantat)\r\n[icon:green_checkmark](über 20 Jahre Erfahrung mit Brustvergrößerungen)\r\n    [icon:green_checkmark](Mehrfach ausgezeichnet und hoch anerkannt)\r\n</div>\r\n</div>\r\n<br> \r\n<h4>Dr. Kauder ist Mitglied in folgenden Fachverbänden</h4>\r\n<div class=\"row\">\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/7/DGPRÄC_Zertifikat_Sinis.230x230.jpg\" title=\"Die Deutsche Gesellschaft für Plastische, Rekonstruktive und Ästhetische Chirurgie ist die führende Gesellschaft für Schönheitsoperationen in Deutschland. Hier sind ausschließlich Fachärzte für Plastische und Ästhetische Chirurgen Mitglied. Als Berufsverband und Wissenschaftliche Fachgesellschaft der Plastischen und Ästhetischen Chirurgen Deutschlands steht die DGPRÄC in stetem Dialog mit Ärztekammern, Dachorganisationen – wie der Deutschen Gesellschaft für Chirurgie oder dem Weltverband der Plastischen Chirurgen, IPRAS.\">\r\n</div>\r\n</div>\r\n    <div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v3/999/Vereinigung_der_Deutschen_Aesthetisch-Plastischen Chirurgen.230x230.jpg\" title=\"Die Vereinigung der Deutschen Ästhetisch-Plastischen Chirurgen (VDÄPC) ist die größte Fachgesellschaft Ästhetischer Chirurgen in Deutschland. Die Mitglieder des VDÄPC sind sowohl niedergelassene Ärzte, als auch Klinikärzte auf dem Fachgebiet Plastische und Ästhetische Chirurgie. Die Mitglieder des VDÄPC müssen sich über die Ausbildung zum Facharzt der Plastischen und Ästhetischen Chirurgie hinaus kontinuierlich weiterbilden, um das fachliche Wissen und die praktischen Fertigkeiten auf einem konstant hohen und aktuellen Niveau zu halten.\">\r\n</div></div>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/International_Plastic_Reconstructive_Aesthetic_Surgery.230x230.jpg\" \r\ntitle=\"IPRAS steht für International Confederation of Plastic Reconstructive and Aesthetic Surgery. In der Organisation befinden sich weltweit ca 40.000 Plastische Chirurgen aus 105 Ländern. Der Austausch zwischen den Chirurgen wird durch jährliche Konferenzen gefördert. IPRAS wurde 1955 von weltweit anerkannten Größen der Plastisch-ästhetischen Chirurgie gegründet.\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:135px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v3/999/Berufsverband Deutscher Chirurgen.jpg\" title=\"Berufsverband der Deutschen Chirurgen e.V.\">\r\n</div></div>\r\n</div>\r\n<br> \r\n<h4>Dr. med. Kauder kann Sie in folgenden Sprachen beraten</h4>\r\n<div class=\"row\">\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/deutsch.jpg\" />\r\n            <font size=1>Deutsch</font>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/englisch.jpg\" />\r\n            <font size=1>Englisch</font>\r\n        </div>\r\n    </div>\r\n</div>\r\n<br> <a style=\"cursor:pointer\" onclick=\"$('.bop_vita').toggle('slow');\">\r\n<b>+ Lebenslauf und weitere Information zu Dr. med. Olaf Kauder ></b> \r\n</a>\r\n<br/>\r\n<div class=\"terminvereinbarung bop_vita\" style=\"display:none;\">\r\n    <span align=\"justify\" style=\"font-size:100%; line-height: 140%\">\r\n<div class=\"row\"> \r\n    <div class=\"col-md-8\">\r\nIn den vergangenen Jahren hat sich Dr. Kauder einen exzellenten Ruf als Facharzt für Plastische- und Ästhetische Chirurgie besonders bei Operationen an der weiblichen Brust jeglicher Art erworben.\r\n<br/>\r\nDies wurde Ende September 2011 durch die Aufnahme in die\r\n\"BUNTE -Liste Deutschlands Top-Ärzte für Brustchirurgie\" geehrt.\r\n<br/>\r\nDr. Kauder ist durch die Deutsche Krebsgesellschaft als Plastischer und Ästhetischer Chirurg als Kooperationspartner des DMP Brustzentrums Krankenhaus Waldfriede im Jahr 2009 zertifiziert worden.\r\n<br/>\r\nDie besonderen ästhetischen Anforderungen der Plastischen Chirurgie der weiblichen Brust bilden einen Schwerpunkt der operativen Tätigkeit von Dr. Kauder.\r\n<br/>\r\nNach dem Medizinstudium an der Westfälischen Wilhelms Universität in Münster bis 1993 promovierte Dr. Kauder am Institut für Physiologie der gleichen Universität mit \"summa cum laude\" und erhielt 1994 den Promotionspreis der WWU Münster.\r\n<br/>\r\nDie Weiterbildung zum Facharzt für Plastische Chirurgie schloss Dr. Kauder im Jahr 2000 nach Tätigkeiten am St. James´s University Hospital, Leeds, UK, Unit for Plastic and Reconstructive Surgery und der\r\nChirurgischen Klinik der Universität Würzburg Abteilung für Plastische Chirurgie mit Bestehen der Facharztprüfung vor der bayerischen Landesärztekammer ab.\r\n<br/>\r\nNachdem während der Weiterbildung zunächst das Interesse überwiegend der ästhetischen und rekonstruktiven Brustchirurgie galt, wurden in den Jahren an der Partnachklinik in Garmisch-Partenkirchen und der Fachklinik Hornheide in Münster ästhetische und rekonstruktive Schwerpunkte im Bereich des Gesichtes gesetzt.\r\n<br/>\r\nDr. Kauder war bis 2012 u.a. Konsiliararzt des durch die Deutsche Krebsgesellschaft zertifizierten DMP Brustzentrum des Krankenhaus Waldfriede in Zehlendorf. Dort werden überwiegend brustchirurgische Eingriffe zur Rekonstruktion der weiblichen Brust nach Brustkrebs durchgeführt. Hier war Dr. Kauder in Kooperation mit der Chefärztin des Brustzentrums, Frau Dr. Barbara Brückner bestrebt, den entstellenden Charakter der Brustkrebschirurgie mit bestmöglichem ästhetischen Resultat zu beseitigen.\r\n<br>\r\nTermine für eine Beratung bei Dr. Blazek erhalten Sie online über den Terminkalender oder unter:<br>\r\n    030 610 818 286\r\n    </div>\r\n</div>\r\n</span>\r\n</div>",
+	"address" : {
+		"street" : "Kurfürstendamm 48",
+		"city" : "Berlin",
+		"zipCode" : "10707"
+	},
+	"availabilityRating" : {
+		"detail" : "Termin in ca. 3 Wo.",
+		"value" : 0,
+		"range" : 0
+	},
+	"coordinates" : {
+		"x" : 13.318,
+		"y" : 52.502
+	},
+	"image" : {
+		"label" : "Dr. med. Kauder",
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Olaf Kauder",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("576d0a0634690b2c7f6a38fa"),
+	"about" : "Dr. med. Klaus Gerhard Niermann ist seit 2008 Leitender Arzt und Geschäftsführer der Fontana-Klinik GmbH in Mainz. Er absolvierte sein Studium an der Universität Phillips-Universität Marburg und an der Medizinischen Hochschule Hannover. Nach dem Studium durchlief Dr. med. Klaus Gerhard Niermann mehrere Kiniken als Assistenzarzt und Weiterbildungsassistent. Im Jahre 2000 erzielte er dann seinen Facharzt für Plastische Chirurgie. \r\nDie Brustchirurgie zählt zu einer von Dr. med. Gerhard Niermann Spezialgebieten. \r\nTermine für eine Beratung bei Dr. med. Klaus Gerhard Niermann erhalten Sie online über den Terminkalender oder unter:\r\n0911 621797 86",
+	"address" : {
+		"street" : "Vordere Sterngasse 32",
+		"city" : "Nürnberg",
+		"zipCode" : "90402"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"cityLabel" : "Nürnberg",
+	"coordinates" : {
+		"x" : 11.078,
+		"y" : 49.447
+	},
+	"image" : {
+		"label" : "Dr. med. Niermann",
+		"path" : "/vendor/576d0a0634690b2c7f6a38fa/2017-03-17_112650_58cbb9ea880af.jpg"
+	},
+	"name" : "Dr. med. Klaus G. Niermann",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b456c"),
+	"about" : "<h3>Information zur Privatklinik Schloßstraße</h3><br>\r\n<div class=\"row\">\r\n <div class=\"col-md-2\">\r\n<div style=\"max-width:150px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/6/Privatklinik_Schlossstrasse_Logo.230x230.jpg\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-6\">\r\n[icon:green_checkmark](Fachärzte für Plastische und Ästhetische Chirurgie)\r\n[icon:green_checkmark](Sieben Chirurgen mit verschiedenen Spezialisierungen der Brustchirurgischen Eingriffe)\r\n[icon:green_checkmark](Anerkanntes privates Krankenhaus)\r\n[icon:green_checkmark](Familiäre Klinikatmosphäre)\r\n[icon:green_checkmark](Attraktives Preis- Leistungsverhältnis auf Grund angeschlossener Klinik)\r\n[icon:green_checkmark](Brustvergrößerungen ausschließlich mit Premium Implantaten)\r\n[icon:green_checkmark](Klinikchef praktiziert als Anästhesist)\r\n</div>\r\n</div>\r\n<br>\r\n<strong>Die Ärzte der Klinik sind u.a. Mitglieder der folgenden Fachverbände</strong>\r\n<div class=\"row\">\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/7/DGPRÄC_Zertifikat_Sinis.230x230.jpg\" title=\"Die Deutsche Gesellschaft für Plastische, Rekonstruktive und Ästhetische Chirurgie ist die führende Gesellschaft für Schönheitsoperationen in Deutschland. Hier sind ausschließlich Fachärzte für Plastische und Ästhetische Chirurgen Mitglied. Als Berufsverband und wissenschaftliche Fachgesellschaft der Plastischen und Ästhetischen Chirurgen Deutschlands steht die DGPRÄC in stetem Dialog mit Ärztekammern, Dachorganisationen – wie der Deutschen Gesellschaft für Chirurgie oder dem Weltverband der Plastischen Chirurgen, IPRAS.\">\r\n</div>\r\n</div>\r\n    <div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/International_Plastic_Reconstructive_Aesthetic_Surgery.230x230.jpg\" \r\ntitle=\"IPRAS steht für International Confederation of Plastic Reconstructive and Aesthetic Surgery. In der Organisation befinden sich weltweit ca 40.000 Plastische Chirurgen aus 105 Ländern. Der Austausch zwischen den Chirurgen wird durch jährliche Konferenzen gefördert. IPRAS wurde 1955 von weltweit anerkannten Größen der Plastisch-ästhetischen Chirurgie gegründet.\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:135px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/allergan_logo_360x240.jpg\" title=\"Allergan Medical Institut förder den nachhaltigen Austausch von Wissenschaft und Praxis im Feld der ästhetischen Medizin.\">\r\n</div></div>\r\n</div>\r\n<br>\r\n<strong>Sie können u.a. auf folgenden Sprachen beraten werden</strong></b>\r\n<div class=\"row\">\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/deutsch.jpg\" />\r\n            <font size=1>Deutsch</font>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/englisch.jpg\" />\r\n            <font size=1>Englisch</font>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/russisch.jpg\" />\r\n            <font size=1>Russisch</font>\r\n        </div>\r\n    </div>\r\n        <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/tschechisch.jpg\" />\r\n            <font size=1>Tschechisch</font>\r\n        </div>\r\n    </div>\r\n</div>\r\n<br> <a style=\"cursor:pointer\" onclick=\"$('.bop_vita').toggle();\">\r\n<b>+ Weitere Information zur Privatklinik Schloßstraße</b>\r\n</a>\r\n<div class=\"terminvereinbarung bop_vita\" style=\"display:none;\">\r\n    <span align=\"justify\" style=\"font-size:100%; line-height: 140%\">\r\n<div class=\"row\"> \r\n    <div class=\"col-md-12\">\r\nDie Privatklinik Schloßstraße ist eine nach §30 der Gewerbeordnung anerkannte Klinik, die examinierte Krankenschwestern sowie hervoragend ausgebildete Chirurgen für das Fachgebiet Brustoperationen aufweist. Sie liegt direkt am Rathaus Steglitz und ist prima mit öffentlichen Verkehrsmitteln wie auch mit dem PKW erreichbar.\r\n        <br>\r\n        Ein Schwerpunkt der Klinik ist die <strong>Brustvergrößernde Chirurgie</strong>. Hier weist die Klinik um die 300 Operationen im Jahr auf und setzt ausschließlich spezialisierte Chrirugen ein. <strong>Die Privatklinik Schloßstraße </strong> kann alles in einem Hause bieten. Dazu zählt sowohl die Beratung zu Möglichkeiten des Eingriffs und Wunschergebnis, die Operation an sich und die Nachbetreuung. \r\n<br>\r\n        <br>\r\nEs werden bei den Operationen ausschließlich neuste Operationstechniken und Preimiumimplantate von Polytech oder Allergan verwendet.\r\n        <br>\r\n        <br>\r\nTermine für eine Beratung bei der Privatklinik Schloßstraße erhalten Sie online über den Terminkalender oder unter:<br>\r\n    030 610 818 297 \r\n    </div>\r\n</div>\r\n</span>\r\n</div>",
+	"address" : {
+		"street" : "Schloßstraße 38-40",
+		"city" : "Berlin",
+		"zipCode" : "12165"
+	},
+	"availabilityRating" : {
+		"detail" : "Kurzfristig",
+		"value" : NumberLong("2"),
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.32,
+		"y" : 52.456
+	},
+	"image" : {
+		"label" : "Privatklinik Schloßstraße",
+		"path" : "/vendor/57559c9134690bed298b456c/image.jpg"
+	},
+	"name" : "Privatklinik Schloßstraße",
+	"title" : "Nur Fachärzte für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b456f"),
+	"address" : {
+		"street" : "Hohenzollerndamm 28a",
+		"city" : "Berlin",
+		"zipCode" : "10713"
+	},
+	"availabilityRating" : {
+		"detail" : "unbekannt",
+		"value" : 0,
+		"range" : 0
+	},
+	"coordinates" : {
+		"x" : 13.317,
+		"y" : 52.492
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Dr. med. Mohamed Cheikh",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b4570"),
+	"about" : "liegen keine Information vor",
+	"address" : {
+		"street" : "Kantstraße 47",
+		"city" : "Berlin",
+		"zipCode" : "10625"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.317,
+		"y" : 52.492
+	},
+	"image" : {
+		"label" : "Karen Towmasjan",
+		"path" : "/vendor/57559c9134690bed298b4570/image.jpg"
+	},
+	"name" : "Karen Towmasjan",
+	"title" : "Facharzt für Chirurgie"
+},
+{
+	"_id" : ObjectId("5774fa8b34690be23ba7d477"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Maximilianstrasse 38/40",
+		"city" : "München",
+		"zipCode" : "80539"
+	},
+	"availabilityRating" : {
+		"detail" : "unbekannt",
+		"value" : NumberLong("0"),
+		"range" : 0
+	},
+	"coordinates" : {
+		"x" : 11.584,
+		"y" : 48.138
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Prof. Dr. med. Hisham Fansa",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("577a3aac34690b477a9d0ae1"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Königsallee 88",
+		"city" : "Düsseldorf",
+		"zipCode" : "40212"
+	},
+	"availabilityRating" : {
+		"detail" : "unbekannt",
+		"value" : NumberLong("0"),
+		"range" : 0
+	},
+	"cityLabel" : "Düsseldorf",
+	"coordinates" : {
+		"x" : 6.78,
+		"y" : 51.22
+	},
+	"image" : {
+		"path" : "/defaults/nonPartnerMale.jpg"
+	},
+	"name" : "Prof. Dr. med. Christoph Andree",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("577a46c834690b927c9d0ae1"),
+	"about" : "Für diesen Arzt / Klinik stehen keine Information zur Verfügung.",
+	"address" : {
+		"street" : "Mönckebergstr. 5",
+		"city" : "Hamburg",
+		"zipCode" : "20095"
+	},
+	"availabilityRating" : {
+		"detail" : "unbekannt",
+		"value" : NumberLong("0"),
+		"range" : 0
+	},
+	"cityLabel" : "Hamburg",
+	"coordinates" : {
+		"x" : 10.003753,
+		"y" : 53.551215
+	},
+	"image" : {
+		"label" : "",
+		"path" : "/defaults/nonPartnerFemale.jpg"
+	},
+	"name" : "Dr. med. Draga Kuzmanovic",
+	"title" : "Fachärztin für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b456e"),
+	"about" : "<h3>Information zu Dr. med. Simon Ahrens</h3>\r\n<div class=\"row\">\r\n <div class=\"col-md-2\">\r\n<div style=\"max-width:150px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/8/Dr. Ahrens_Protrait.230x230.jpg\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-6\">\r\n[icon:green_checkmark](Facharzt für Plastische und Ästhetische Chirurgie)\r\n[icon:green_checkmark](Spezialisiert auf Brustoperationen)\r\n[icon:green_checkmark](Weiterentwicklung der besonders schonenden Brustverkleinerungsmethode nach Hall-Findlay)\r\n[icon:green_checkmark](107 Brustvergrößerung mit Implantat pro Jahr)\r\n[icon:green_checkmark](Über 10 Jahre Expertise der Brustvergrößerung und Verkleinerung)\r\n</div>\r\n</div>\r\n<br>\r\nDr. Ahrens ist Mitglied in folgenden Fachverbänden\r\n<div class=\"row\">\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/7/DGPRÄC_Zertifikat_Sinis.230x230.jpg\" title=\"Die Deutsche Gesellschaft für Plastische, Rekonstruktive und Ästhetische Chirurgie ist die führende Gesellschaft für Schönheitsoperationen in Deutschland. Hier sind ausschließlich Fachärzte für Plastische und Ästhetische Chirurgen Mitglied. Als Berufsverband und Wissenschaftliche Fachgesellschaft der Plastischen und Ästhetischen Chirurgen Deutschlands steht die DGPRÄC in stetem Dialog mit Ärztekammern, Dachorganisationen – wie der Deutschen Gesellschaft für Chirurgie oder dem Weltverband der Plastischen Chirurgen, IPRAS.\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:90px;\">\r\n<img width=\"100%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/Deutsche Gesellschaft für Chirurgie.230x230.jpg\" \r\ntitle=\"DGCH hat derzeit 6.600 Mitglieder und ist die älteste medizinisch-wissenschaftliche Fachgesellschaft. Sie setzt sich mit der medizinischen Forschung sowie mit politischen, ökonomischen und sozialen Rahmenbedingungen der Medizin auseinander.\">\r\n</div>\r\n</div>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:135px;\">\r\n<img width=\"65%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/Deutsche_Gesellschaft_fuer_Unfallchirurgie.230x230.jpg\" title=\"Da Unfälle eine tägliche Bedrohung sind und jährlich 35.000 Menschen in Deutschland lebensbedrohliche Verletzungen davon tragen, setzt sich die DGU für die Einrichtung und Sicherung von Versorgungsstrukturen sowie auch der Präventionmaßnahmen, Therapie und adäquater Rehabilitätionsmöglichkeiten ein.\">\r\n</div>\r\n    </div>\r\n<div class=\"col-md-2\">\r\n<div style=\"max-width:135px;\">\r\n<img width=\"65%\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/Berufsverband Deutscher Chirurgen.jpg\"title=\"Der Berufsverband Deutscher Chirurgen e.V. ist Europas größte Chirurgenvereinigung und setzt sich für berufspolitische Belange der Chirurgen ein.\">\r\n</div></div>\r\n</div>\r\n<br>\r\nDr. med. Ahrens kann Sie in folgenden Sprachen beraten</b>\r\n<div class=\"row\">\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/deutsch.jpg\" />\r\n            <font size=1>Deutsch</font>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-md-1\">\r\n        <div style=\"width:50px; display:inline-block; margin-right:20px\">\r\n            <img width=\"50\" src=\"https://s3-eu-west-1.amazonaws.com/cubereactor-static/apps/bop/content/v2/999/englisch.jpg\" />\r\n            <font size=1>Englisch</font>\r\n        </div>\r\n    </div>\r\n</div>\r\n<br> <a onclick=\"$('.bop_vita').toggle();\">\r\nLebenslauf und weitere Information zu Dr. med. Simon Ahrens >>> \r\n</a>\r\n<div class=\"terminvereinbarung bop_vita\" style=\"display:none;\">\r\n    <span align=\"justify\" style=\"font-size:100%; line-height: 140%\">\r\n<div class=\"row\"> \r\n    <div class=\"col-md-12\">\r\nDr. med. Simon Ahrens ist mit zwei Facharzttiteln ausgezeichnet. Er ist <strong>Facharzt für Plastische, Ästhetische und Rekonstruktive Chirurgie</strong> und <strong>Facharzt für Chirurgie</strong>. Dr. Ahrens hat sich auf das Thema Brustoperation spezialisiert. Insbesondere bei der <strong>Brustvergrößerung</strong> weist er hohe Operationszahlen auf und kann Ihnen beim Wunsch der Brustverkleinerung, die Brustgewebsschonende Methode nach Hall-Findlay anbieten, die nicht viele Ärzte anbieten können. In dieser Methode ist Herr Dr. med. Ahrens Spezialist.\r\n<br>\r\nDr. Ahrens hat mehr als ein Jahrzehnt Erfahrung als Chirurg. Seine besonders hautschonende und narbenarme Operationstechnik basiert auf einer Spezialisierung für Minimalinvasive Eingriffe. In der Hygiea-Klinik, der Praxisklinik Charlottenburg, dem Bethel Krankenhaus und dem Polikum hat Dr. med. Ahrens belegärzliche Erfahrungen gemacht. Herr Dr. med. Ahrens hat ebenfalls mehrere Stationen als Oberarzt der Chirurgie durchlaufen bis er das AesthetiCum 2012 gründete.   \r\nEr ist spezialisiert auf Brust- und Handchirurgie und seine Fertigkeit in der minimalinvasiven Operationstechnik, bietet Patientinnen besonders blasse, kleine Narbenbereiche.   \r\n<br>\r\nTermine für eine Beratung bei Dr. Ahrens erhalten Sie online über den Terminkalender oder unter:<br>\r\n    030 610 818 286\r\n    </div>\r\n</div>\r\n</span>\r\n</div>",
+	"address" : {
+		"street" : "Tauentzienstraße 5",
+		"city" : "Berlin",
+		"zipCode" : "10789"
+	},
+	"availabilityRating" : {
+		"detail" : "Sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.341,
+		"y" : 52.503
+	},
+	"image" : {
+		"label" : "Dr. med. Ahrens",
+		"path" : "/vendor/57559c9134690bed298b456e/image.jpg"
+	},
+	"name" : "Dr. med. Simon Ahrens",
+	"title" : "Facharzt für Plastische, Ästhetische und Rekonstruktive Chirurgie | Facharzt für Chirurgie"
+},
+{
+	"_id" : ObjectId("577a62d034690bd5029d0ae1"),
+	"about" : "Nach der Facharztausbildung für Frauenheilkunde und Geburtshilfe erweiterte Dr. med. Ralf Frönicke sein operatives Wissen im Bereich der ästhetischen Chirurgie in einigen berühmten Kliniken, unter anderem in der Mayo Klinik in den USA. \r\nBis zum Jahre 2000 war er Gastprofessor in der Universität Constanza (Roma). Anschließend erhielt er den Prof. h. C. Seine neuen wissenschaftlichen und klinischen Erkenntnisse wurden in vielen wissenschaftlichen Magazinen publiziert.\r\nMit dem Münchener Arbeitskreis für ästhetische Chirurgie organisierte er einen internationalen Kongress für ästhetische Chirurgie. Zur Zeit ist Dr. med. Ralf Frönicke erster Vorsitzender dieses Vereins.\r\nIn seiner nunmehr 25-jährigen Tätigkeit hat er über 20.000 Eingriffe durchgeführt und dadurch natürlich einen großen Erfahrungsschatz. In den 90er-Jahren hat er eines der ersten Fettabsauge-Institute gegründet und war gleichzeitig Chefarzt in einer privaten Klinik für ästhetische Chirurgie.\r\nDieses wurde dann im Laufe der Zeit zusammengeführt zu dem Medizinischen Versorgungszentrum München, dessen ärztliche Leitung Dr. med. Ralf Frönicke nun innehat.",
+	"address" : {
+		"street" : "Nymphenburger Str. 155",
+		"city" : "München",
+		"zipCode" : "80634"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 11.534,
+		"y" : 48.152
+	},
+	"image" : {
+		"label" : "Dr. med. Ralf Frönicke",
+		"path" : "/vendor/577a62d034690bd5029d0ae1/image.jpg"
+	},
+	"name" : "Dr. med. Ralf Frönicke",
+	"title" : "Facharzt für Gynäkologie (Spezialisierung auf Ästhetische Operationen)"
+},
+{
+	"_id" : ObjectId("57559c9134690bed298b4572"),
+	"about" : "Frau Dr. med. Omar hat eine wunderschön eingerichtete Praxis am Kurfürstendamm, in der sie auch die Eingriffe durch einen angeschlossenen Operationssaal vornimmt. Modernste Gestaltung und die neusten Instrumente sind hier selbstverständlich. \r\n\r\nFrau Dr. Omar hat in Kiel und Hamburg Medizin studiert und machte im Jahre 2000 ihren Abschluss. Dabei hat sie zahlreiche praktische Erfahrungen im Ausland gesammelt. Frau Dr. med. Omar arbeitete hierbei in der Schweiz, Amerika sowie Jamaika und Brasilien. Im Anschluss an ihr Studium praktizierte Frau Omar in Großbritannien und Südafrika, bis sie ihren Facharzttitel für plastische und ästhetische Chirurgie in der Universitätsklinik Köln und der Universität Witten-Herdecke erlangte. Die beruflichen Stationen als Fachärztin für Plastische Ästhetische Operationen sind die Stelle als Oberärztin der Medical One Berlin und die Leiterin der POLIKUM Ästhetik Berlin. \r\n\r\nFrau Dr. Omar ist auf den weiblichen Körper und die Brustchirurgie spezialsisiert. Neben Brustchirurgischen Eingriffen führt Frau Dr. Omar regelmäßig Eigenfettbehandlungen sowie die Straffungen von Körperpartien durch.",
+	"address" : {
+		"street" : "Kurfürstendamm 200",
+		"city" : "Berlin",
+		"zipCode" : "10719"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.32,
+		"y" : 52.501
+	},
+	"image" : {
+		"label" : "Dr. med. Omar",
+		"path" : "/vendor/57559c9134690bed298b4572/image.jpg"
+	},
+	"name" : "Dr. med. Mariam Omar",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57837bad34690b3f6fd7de9a"),
+	"address" : {
+		"street" : "Friedrichstraße 71",
+		"city" : "Berlin",
+		"zipCode" : "10117"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : NumberLong("2"),
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.39,
+		"y" : 52.514
+	},
+	"name" : "Prof. Dr. med. Plogmeier | Medical One Berlin",
+	"title" : "Facharzt für Plastische und Ästhetische Chirurgie"
+},
+{
+	"_id" : ObjectId("57837bff34690b176fd7de9a"),
+	"about" : "Die Medical One ist eine Klinik mit 21 Standorten, die Patientinnen Fachärzte für Plastische und Ästhetische Chirurgie und ausgewählte Fachärzte für Chirurgie bietet, die sich auf chirurgische Eingriffe an der Brust spezialisiert haben.\r\n\r\nDie Klinik bietet vielfältige ästhetische Operation an und kann Spezialisten für die verschiedenen Eingriffe vorweisen. Viele Ärzte die bei der Medical One beraten und operieren, sind zusätzlich mit ihrer eigenen Praxis niedergelassen, die ihre Expertise bei der größten Schönheitsklinik Deutschland anbieten.\r\n\r\nDie Medical One gewährleistet ein Team aus verantwortungsvollen Fachärzten, die sowohl bei der Beratung beste Leistungen zeigen wie auch bei den Operationen.",
+	"address" : {
+		"street" : "Friedrichstraße 71",
+		"city" : "Berlin",
+		"zipCode" : "10117"
+	},
+	"availabilityRating" : {
+		"detail" : "sofort",
+		"value" : 2,
+		"range" : 3
+	},
+	"coordinates" : {
+		"x" : 13.39,
+		"y" : 52.514
+	},
+	"image" : {
+		"label" : "Dr. med. Mathias Kremer-Thum MedicalOne",
+		"path" : "/vendor/57837bff34690b176fd7de9a/image.jpg"
+	},
+	"name" : "Dr. med. Mathias Kremer-Thum | Medical One Berlin",
+	"title" : "Facharzt für Plastische und Ästhetische Chirogie"
+},

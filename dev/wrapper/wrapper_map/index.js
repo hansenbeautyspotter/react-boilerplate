@@ -12,16 +12,11 @@ const MapWrapper = styled.div`
     padding: 0;
 `;
 
-const MapWrapperLeft = styled.div`
-    flex: 1;
-    width: 75%;
-`;
-
-const MapWrapperRight = styled.div`
+const MapWrapperItem = styled.div`
+    flex: ${props => props.right ? '0 0 auto' : '1'};
+    width: ${props => props.right ? '25%' : '75%'};
+    padding: ${props => props.right ? '16px' : '0'};
     box-sizing: border-box;
-    padding: 16px;
-    flex: 0 0 auto;
-    width: 25%;
 `;
 
 export default class WrapperMap extends React.Component {
@@ -29,12 +24,12 @@ export default class WrapperMap extends React.Component {
     render() {
         return (
             <MapWrapper>
-                <MapWrapperLeft>
+                <MapWrapperItem>
                     <BerlinMaps/>
-                </MapWrapperLeft>
-                <MapWrapperRight>
+                </MapWrapperItem>
+                <MapWrapperItem right>
                     <DoctorList/>
-                </MapWrapperRight>
+                </MapWrapperItem>
             </MapWrapper>
         );
     }

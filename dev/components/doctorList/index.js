@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import FontAwesome from 'react-fontawesome';
+import axios from 'axios';
 
 import H1 from '../H1';
 
@@ -47,69 +48,41 @@ const DoctorListItemIcon = styled.div `
 
 export default class DoctorList extends React.Component {
 
+    constructor(props) {
+        super(props);
+
+        this.state = {
+            persons: []
+        };
+    }
+
+    componentDidMount() {
+        var mockAPI = 'https://jsonplaceholder.typicode.com/users';
+
+        axios.get(mockAPI).then(res => {
+            const persons = res.data;
+            console.log(persons);
+            this.setState({persons});
+        });
+    }
+
     render() {
         return (
             <DoctorListElement>
-                <DoctorListItemElement>
-                    <DoctorListItemName>
-                        <DoctorListItemImage src="http://placehold.it/60x60"/>
-                        <div>
-                            <h4>Name</h4>
-                            <span>Some Details</span>
-                        </div>
-                    </DoctorListItemName>
-                    <DoctorListItemIcon>
-                        <FontAwesome name='arrows'/>
-                    </DoctorListItemIcon>
-                </DoctorListItemElement>
-                <DoctorListItemElement>
-                    <DoctorListItemName>
-                        <DoctorListItemImage src="http://placehold.it/60x60"/>
-                        <div>
-                            <h4>Name</h4>
-                            <span>Some Details</span>
-                        </div>
-                    </DoctorListItemName>
-                    <DoctorListItemIcon>
-                        <FontAwesome name='arrows'/>
-                    </DoctorListItemIcon>
-                </DoctorListItemElement>
-                <DoctorListItemElement>
-                    <DoctorListItemName>
-                        <DoctorListItemImage src="http://placehold.it/60x60"/>
-                        <div>
-                            <h4>Name</h4>
-                            <span>Some Details</span>
-                        </div>
-                    </DoctorListItemName>
-                    <DoctorListItemIcon>
-                        <FontAwesome name='arrows'/>
-                    </DoctorListItemIcon>
-                </DoctorListItemElement>
-                <DoctorListItemElement>
-                    <DoctorListItemName>
-                        <DoctorListItemImage src="http://placehold.it/60x60"/>
-                        <div>
-                            <h4>Name</h4>
-                            <span>Some Details</span>
-                        </div>
-                    </DoctorListItemName>
-                    <DoctorListItemIcon>
-                        <FontAwesome name='arrows'/>
-                    </DoctorListItemIcon>
-                </DoctorListItemElement>
-                <DoctorListItemElement>
-                    <DoctorListItemName>
-                        <DoctorListItemImage src="http://placehold.it/60x60"/>
-                        <div>
-                            <h4>Name</h4>
-                            <span>Some Details</span>
-                        </div>
-                    </DoctorListItemName>
-                    <DoctorListItemIcon>
-                        <FontAwesome name='arrows'/>
-                    </DoctorListItemIcon>
-                </DoctorListItemElement>
+                {this.state.persons.map(person =>
+                    <DoctorListItemElement key={person.id}>
+                        <DoctorListItemName>
+                            <DoctorListItemImage src="https://unsplash.it/60/60/?person"/>
+                            <div>
+                                <h4>{person.id}. {person.name}</h4>
+                                <span>{person.email}</span>
+                            </div>
+                        </DoctorListItemName>
+                        <DoctorListItemIcon>
+                            <FontAwesome name='arrows'/>
+                        </DoctorListItemIcon>
+                    </DoctorListItemElement>
+                )}
             </DoctorListElement>
         );
     }
